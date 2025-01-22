@@ -16,6 +16,15 @@ Usar split para pegar o mês e para filtrar apenas os dados com tempo de até 6 
 ## Finalidade:
 O programa será utilizado temporariamente no Estágio para lidar com datas e documentos.
 
+## Exemplo de Documento:
+A seguir mostrarei um exemplo de um documento que seria lido por esse programa.
+
+| CÓDIGO   | DESCRIÇÃO| MODO     | NOME     | DATA INICIO  | DATA FIM     | PREÇO    | RESPONSAVEL | OBS      | STATUS    | SETOR    | OBJETIVO |
+|----------|----------|----------|----------|--------------|--------------|----------|-------------|----------|-----------|---------------------|
+| 007      | Dado 2   |Presencial| RAFAEL   |15/06/2014    |17/03/2025    | R$ 200   | Sr Antonio  | Sem obs  | FEITO     | t.i      | --       |
+
+
+
 ## Ferramentas Usadas:
 [Bootstrap4](https://datatables.net/examples/styling/bootstrap4)
 [DataTables JS](https://datatables.net/)
