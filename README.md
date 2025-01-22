@@ -19,9 +19,10 @@ O programa será utilizado temporariamente no Estágio para lidar com datas e do
 ## Exemplo de Documento:
 A seguir mostrarei um exemplo de um documento que seria lido por esse programa.
 
-| CÓDIGO   | DESCRIÇÃO| MODO     | NOME     | DATA INICIO  | DATA FIM     | PREÇO    | RESPONSAVEL | OBS      | STATUS    | SETOR    | OBJETIVO |
-|----------|----------|----------|----------|--------------|--------------|----------|-------------|----------|-----------|---------------------|
-| 007      | Dado 2   |Presencial| RAFAEL   |15/06/2014    |17/03/2025    | R$ 200   | Sr Antonio  | Sem obs  | FEITO     | t.i      | --       |
+| CÓDIGO | DESCRIÇÃO  | MODO       | NOME    | DATA INICIO | DATA FIM   | PREÇO  | RESPONSAVEL | OBS     | STATUS | SETOR | OBJETIVO |
+|--------|------------|------------|---------|-------------|------------|--------|-------------|---------|--------|-------|----------|
+| 007    | Dado 2     | Presencial | RAFAEL  | 15/06/2014  | 17/03/2025 | R$ 200 | Sr Antonio  | Sem obs | FEITO  | t.i   | --       |
+
 
 
 
